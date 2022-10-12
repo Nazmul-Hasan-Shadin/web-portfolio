@@ -1,11 +1,15 @@
-
+*{ margin: 0;
+padding: 0;}
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 
 h1{
     font-size: 50px;
+    
 }
 .name-highlit{
          color: orange;
@@ -18,4 +22,81 @@ h1{
 }
 .halfwidth img{
     width: 100%;
+}
+.link-button   {
+    background-color: orange;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+
+}
+.dream-image{
+    margin-top: 10px;
+}
+
+
+div#fast {
+    margin-top: 278px;
+}
+
+div#sec {
+    margin-top: -141px;
+}
+
+div#sec h3 {
+    color: orange;
+}
+
+div#fast h3 {
+    color: orange;
+}
+div#fast {
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato,red);
+    border-image-slice: 1;
+    box-shadow: 10px 12px 40px gray;
+    height: 80%;
+    margin-top: 0;
+    text-align: center;
+}
+div#sec {
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato,red);
+    border-image-slice: 1;
+    box-shadow: 10px 12px 40px gray;
+    height: 80%;
+    margin-top: -319px;
+    text-align: center;
+}
+
+
+.experience p {
+    padding: 63px 9px;
+}
+.experience p {
+    padding: 63px 9px;
+}
+
+.experience h2 {
+    padding: 24px 0px;
+}
+
+
+
+
+
+
+
+
+section{
+    height: 427px;
+}
+
+div#faka {
+    margin-top: 148px;
+}
+.experience {
+    height: 400px;
+    margin-top: 29px;
 }
